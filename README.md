@@ -44,7 +44,7 @@ To work with The great Gallery App you need to have some few prerequisites.
 
 2. You will also need python installed and knowledge of python
 
-3. To get to use **The Great Gallery** first you need to get to the Jo Photo Gallery repository. 
+3. To get to use **The Great Gallery** first you need to get to the 'The Great Gallery' repository. 
 
 Link:-> ```https://github.com/amon-wanyonyi/gallery-app```
 

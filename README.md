@@ -58,8 +58,8 @@ Link:-> ```https://github.com/amon-wanyonyi/gallery-app```
 
 8. Installing Django and other Modules
 
-    `python3.6 -m pip install Django`
-    `python3.6 -m pip install Django-Bootstrap4`
+    `python3.6 -m pip install Django` <br>
+    `python3.6 -m pip install Django-Bootstrap4` <br>
     `python3.6 -m pip install -r requirements.txt`
 
 9. On your **bash** terminal Run the command:- 

@@ -31,7 +31,7 @@ To work with The great Gallery App you need to have some few prerequisites.
 
 - Django 
 
-- Virtual environment (virtualenv)
+- Virtual environment (venv)
 
 - Code/text editor
 

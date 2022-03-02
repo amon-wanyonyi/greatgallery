@@ -23,7 +23,7 @@ This is a photo gallery web Application where you can view photos and see the de
 # **SETUP/INSTALLATION.**
 ## Prerequisites
 
-To work with Jo Photo Gallery App you need to have some few prerequisites.
+To work with The great Gallery App you need to have some few prerequisites.
 
 - Python3.6
 
@@ -38,17 +38,17 @@ To work with Jo Photo Gallery App you need to have some few prerequisites.
 - Terminal
 
 
-### **To work With Jo Photo Gallery**
+### **To work With The Great Gallery**
 
 1. You will need Internet connection.
 
 2. You will also need python installed and knowledge of python
 
-3. To get to use **Jo Photo Gallery** first you need to get to the Jo Photo Gallery repository. 
+3. To get to use **The Great Gallery** first you need to get to the Jo Photo Gallery repository. 
 
 Link:-> ```https://github.com/amon-wanyonyi/gallery-app```
 
-4. From there you can access Jo Photo Gallery App.
+4. From there you can access The great Gallery App.
 
 5. **Clone** the project.
 
@@ -82,4 +82,4 @@ run:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2019. Joseph Adediji
+Copyright (c) 2022 @Amon

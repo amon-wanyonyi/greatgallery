@@ -1,4 +1,4 @@
-# Jo Photo Gallery
+# The great Gallery
 
 ### **This project was built using Python 3.6  and Django.** 
 
